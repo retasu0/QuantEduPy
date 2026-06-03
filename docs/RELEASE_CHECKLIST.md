@@ -24,9 +24,9 @@
 ## 推奨 (Recommended)
 
 ### 運営用ドキュメント
-- [ ] `CONTRIBUTING.md` （貢献ガイドライン）が存在すること。
-- [ ] `SECURITY.md` （セキュリティポリシー）が存在すること。
-- [ ] `CODE_OF_CONDUCT.md` （行動規範）が存在すること。
+- [x] `CONTRIBUTING.md` （貢献ガイドライン）が存在すること。
+- [x] `SECURITY.md` （セキュリティポリシー）が存在すること。
+- [x] `CODE_OF_CONDUCT.md` （行動規範）が存在すること。
 
 ### NotebookとExamples
 - [ ] `notebooks/` の各ファイルが最新のAPIでエラーなく動作すること。（要確認）
